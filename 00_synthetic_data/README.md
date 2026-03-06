@@ -1,1 +1,0 @@
-![](../diagrams/synthetic_data.png)
